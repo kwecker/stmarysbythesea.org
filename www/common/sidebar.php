@@ -30,45 +30,40 @@
 		<h3>Palm Sunday, April 9th</h3>
 		<ul>
 			<li><strong>7:30am:</strong> Holy Eucharist, Rite I</li>
-			<li><strong>9:30am:</strong> The Liturgy of the Palms &amp; Procession/Berwick Park</li>
+			<li><strong>9:30am:</strong> The Liturgy of the Palms<br>&amp; Procession/Berwick Park</li>
 			<li><strong>10:00am:</strong> Holy Eucharist, Rite II</li>
 		</ul>
 		<div class="hr"><hr></div>
 		<h3>Maundy Thursday, April 13th</h3>
 		<ul>
 			<li><strong>6:00pm:</strong> Soup Supper</li>
-			<li><strong>7:00pm:</strong> Holy Eucharist; Washing of Feet; Stripping of the Altar</li>
+			<li><strong>7:00pm:</strong> Holy Eucharist;<br>Washing of Feet;<br>Stripping of the Altar</li>
 		</ul>
 		<div class="hr"><hr></div>
 		<h3>Good Friday, April 14th</h3>
 		<ul>
 			<li><strong>12:00pm:</strong> Stations of the Cross</li>
-			<li><strong>1:00pm&ndash;3:00pm:</strong> Good Friday Liturgy</li>
+			<li><strong>1pm&ndash;3pm:</strong> Good Friday Liturgy</li>
 		</ul>
 		<div class="hr"><hr></div>
 		<h3>Holy Saturday, April 15th</h3>
 		<ul>
-			<li><strong>8:00pm:</strong> Vigil of Easter; Lighting of Paschal Candle &amp; First Eucharist of Easter</li>
+			<li><strong>8:00pm:</strong> Vigil of Easter;<br>Lighting of Paschal Candle<br>&amp; First Eucharist of Easter</li>
 		</ul>
 		<div class="hr"><hr></div>
 		<h3>Easter Sunday, April 16th</h3>
 		<ul>
 			<li><strong>7:00am:</strong> Holy Eucharist, Rite I</li>
-			<li><strong>9:00am:</strong> Festival Choral Eucharist, Rite II<br>
-				<em>Child Care provided for infants and toddlers</em></li>
+			<li><strong>9:00am:</strong> Festival Choral<br>Eucharist, Rite II<br>
+				<em>Child Care provided for infants<br>and toddlers</em></li>
 			<li><strong>11:00am:</strong> Family &amp; Children&#8217;s Eucharist<br>
-				<em>Children stay in church with their families</em><br>
-				<em>EASTER EGG HUNT FOLLOWS THIS SERVICE</em></li>
+				<em>Children stay in church with<br>their families</em><br>
+				<em>EASTER EGG HUNT FOLLOWS<br>THIS SERVICE</em></li>
 		</ul>
 	</div>
 	<!-- End Special Services -->
 
 	<div class="hr hr_large"><hr class="large_dots"></div>
-	<div class="important">
-		<h2>Rector Position Available</h2>
-		<p>We are seeking a loving, inclusive, spiritually nurturing, and collaborative leader, full of the creative energy of the Holy Spirit.</p>
-		<p><a href="/rector-search.html">More Information &gt;</a></p>
-	</div>
 	<div class="important">
 		<h2>Toddler Room Teacher Needed</h2>
 		<p>We are seeking a dedicated Toddler Room Teacher/<br>Coordinator to work with children ages 0&ndash;4 and to coordinate parent Sunday School volunteers.</p>
