@@ -64,12 +64,6 @@
 	<!-- End Special Services -->
 
 	<div class="hr hr_large"><hr class="large_dots"></div>
-	<div class="important">
-		<h2>Toddler Room Teacher Needed</h2>
-		<p>We are seeking a dedicated Toddler Room Teacher/<br>Coordinator to work with children ages 0&ndash;4 and to coordinate parent Sunday School volunteers.</p>
-		<p><a href="/docs/St_Marys_by-the-Sea-Position_of_Toddler_Room_Teacher.pdf" target="_blank">More Information &gt;</a></p>
-	</div>
-	<div class="hr hr_large"><hr class="large_dots"></div>
 
 	<!-- Memorial Garden Donations -->
 	<div id="memorial-garden">
