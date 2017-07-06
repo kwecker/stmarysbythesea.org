@@ -14,4 +14,8 @@ www/sftp-config.json
 www/scripts/reference/jquery.cycle.lite.js
 www/scripts/reference/jquery.rollover.js
 www/scripts/reference/shadowbox.js
+
 node_modules/*
+gulpfile.js
+package.json
+_res/**/*

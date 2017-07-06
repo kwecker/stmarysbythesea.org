@@ -376,6 +376,9 @@ ul { margin: 0; padding: 0 40px 0 20px; }
 .special-services h3 {
 	font-size: 0.8em;
 }
+.special-services li {
+	margin-top: 0.25em;
+}
 
 
 /*CLEARFIX*/

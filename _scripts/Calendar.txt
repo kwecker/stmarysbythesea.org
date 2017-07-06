@@ -1,22 +1,14 @@
 1
-19
-April
-Saturday	1	5:00PM	I-HELP Men	Edwards Hall
-Monday	3	6:00PM-8:00PM	Search Committee Meeting	Guild Room
-Thursday	6	Noon	Guild Meeting	Guild Room
-Friday	7	10:00AM	Prayer Shawl Meeting	Guild Room
-Saturday	8	6:00PM	I-HELP Women	Edwards Hall
-Sunday	9	7:30AM	Holy Eucharist, Rite I	Church
-Sunday	9	9:30AM	Liturgy of the Palms & Procession	Berwick Park
-Sunday	9	10:00AM	Holy Eucharist, Rite II	Church
-Sunday	9	11:30AM	Order of St. Luke	Off-Site
-Thursday	13	6:00PM	Maundy Thursday Soup Supper	Edwards Hall
-Thursday	13	7:00PM	Holy Eucharist	Church
-Friday	14	Noon	Stations of the Cross	Church
-Friday	14	1:00PM-4:00PM	Good Friday Liturgy	Church
-Saturday	15	8:00PM	Vigil of Easter	Church
-Sunday	16	7:00AM	Holy Eucharist, Rite I	Church
-Sunday	16	9:00AM	Festival Choral Eucharist, Rite II	Church
-Sunday	16	11:00AM	Family & Children’s Eucharist	Church
-Monday	17	7:00PM	Vestry Meeting	Guild Room
-Saturday	22	6:00PM	I-HELP Men	Edwards Hall
+11
+June
+Thusday	1	Noon	Guild Meeting	Guild Room
+Friday	2	10:00AM	Prayer Shawl Meeting	Guild Room
+Saturday	3	8:00AM	Search Committee Meeting	Guild Room
+Sunday	4	11:30AM	Newcomers’ Brunch	Edwards Hall
+Saturday	10	6:00PM	IHELP—Women	Edwards Hall
+Sunday	11	11:30AM	Order of St. Luke	Off-Site
+Friday	16	All Day	Parish Camp	Santa Lucia Campgrounds
+Saturday	17	All Day	Parish Camp	Santa Lucia Campgrounds
+Sunday	18	All Day	Parish Camp	Santa Lucia Campgrounds
+Monday	19	7:00PM	Vestry Meeting	Guild Room
+Saturday	24	6:00PM	IHELP - Men	Edwards Hall
