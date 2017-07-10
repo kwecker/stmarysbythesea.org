@@ -39,15 +39,15 @@
     <!-- Featured Events -->
     <div id="events">
         <h2>Featured Events</h2>
-        <!-- <p>
+         <p>
             No upcoming events.
-        </p> -->
-        <div class="side-bar-event">
+        </p>
+        <!--<div class="side-bar-event">
             <h3>Save The Dates</h3>
             <ul class="info">
                 <li><strong>July 7th&ndash;9th</strong><br> St. Mary&#8217;s by-the-Sea • Diamond Jubilee • 60th Annual Antiques &amp; Collectibles Show</li>
             </ul>
-        </div>
+        </div>-->
         <!--<div class="side-bar-event">
             <h3>Upcoming Concerts</h3>
             <ul class="info">
