@@ -1,13 +1,11 @@
 1
-10
-July
-Sunday	2	8:00AM	CSC Sunday	Church
-Sunday	2	10:00AM	CSC Sunday	Church
-Tuesday	4	All Day	Holiday - 4th of July	Office Closed
-Friday	7	10:00AM-5:00PM	Antiques Show
-Saturday	8	10:00AM-5:00PM	Antiques Show
-Sunday	9	11:00AM-4:00PM	Antiques Show
-Sunday	9	11:30AM	Order of St. Luke	Off-Site
-Sunday	16	11:30AM	Goodbye Brunch for the Raj’s	Edwards Hall
-Monday	17	7:00PM	Vestry Meeting	Guild Room
-Saturday	22	6:00PM	IHELP - Men	Edwards Hall
+8
+August
+Thursday	3	Noon	Guild Meeting	Guild Room
+Friday	4	10:00AM	Prayer Shawl Meeting	Guild Room
+Sunday	6	8:00AM	CSC Sunday	Church
+Sunday	6	10:00AM	CSC Sunday	Church
+Saturday	12	6:00PM	I-HELP Women	Edwards Hall
+Sunday	13	11:30AM	Order of St. Luke	Off-Site
+Monday	21	7:00PM	Vestry Meeting	Guild Room
+Saturday	26	6:00PM	IHELP Men	Edwards Hall
