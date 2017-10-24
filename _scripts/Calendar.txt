@@ -1,12 +1,16 @@
 1
-9
-October
-Sunday	1	10:00AM	CSC Sunday	Church
-Thursday	5	Noon	Guild Meeting	Guild Room
-Friday	6	10:00AM	Prayer Shawl Meeting	Guild Room
-Sunday	8	11:30AM	Order of St. Luke	Off-Site
-Sunday	8	3:00PM	Celtic Concert	Edwards Hall
-Saturday	14	1:00PM	Blessing of the Animals	Berwick Park
-Saturday	14	6:00PM	I-HELP Women	Edwards Hall
-Monday	16	7:00PM	Vestry Meeting	Guild Room
-Saturday	28	6:00PM	I-HELP Men	Edwards Hall
+13
+November
+Thursday	2	Noon	Guild Meeting	Guild Room
+Friday	3	10:00AM	Prayer Shawl Meeting	Guild Room
+Sunday	5	8:00AM	CSC Sunday	Church
+Sunday	5	10:00AM	CSC Sunday	Church
+Sunday	5	11:15AM	Leslie Garden Party	Leslie Garden
+Saturday	11	5:00PM	IHELP – Women	Edwards Hall
+Sunday	19	3:00PM	Celtic Concert – The Syncopaths	Edwards Hall
+Monday	20	7:00PM	Vestry Meeting	Guild Room
+Thursday	23	11:00AM	Thanksgiving Service	Church
+Thursday	23	12:30PM	Thanksgiving Supper	Edwards Hall
+Thursday	23	All Day	Thanksgiving	Office Closed
+Friday	24	All Day	Office Closed	Office Closed
+Saturday	25	6:00PM	IHELP – Men	Edwards Hall
