@@ -39,21 +39,21 @@
     <!-- Featured Events -->
     <div id="events">
         <h2>Featured Events</h2>
-        <p>
+        <!-- <p>
             No upcoming events.
-        </p>
+        </p> -->
         <!--<div class="side-bar-event">
             <h3>Save The Dates</h3>
             <ul class="info">
                 <li><strong>July 7th&ndash;9th</strong><br> St. Mary&#8217;s by-the-Sea • Diamond Jubilee • 60th Annual Antiques &amp; Collectibles Show</li>
             </ul>
         </div>-->
-        <!-- <div class="side-bar-event">
+        <div class="side-bar-event">
             <h3>Upcoming Concerts</h3>
             <ul class="info">
-                <li><strong>September 17th @ 2:30PM</strong><br> St. Mary&#8217;s Celtic Concert Series&mdash;Johnny B. Connolly with Eamon McElholm</li>
+                <li><strong>November 19th @ 3:00PM</strong><br> St. Mary&#8217;s Celtic Concert Series&mdash;The Syncopaths</li>
             </ul>
-        </div> -->
+        </div>
         <p>
             <a href="/newsandevents.html#featured">More event details</a> &bull;
             <a href="/newsandevents.html#calendar">View calendar</a>
