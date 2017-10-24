@@ -1,14 +1,12 @@
 1
-11
-September
-Friday	1	10:00AM	Prayer Shawl Meeting	Guild Room
-Sunday	3	8:00AM	CSC Sunday	Church
-Sunday	3	10:00AM	CSC Sunday	Church
-Monday	4	All Day	Labor Day	Office Closed
-Thursday	7	Noon	Guild Meeting	Guild Room
-Saturday	9	6:00PM	I-HELP Women	Edwards Hall
-Sunday	10	11:30AM	Order of St. Luke	Off-Site
-Sunday	17	3:00PM	Celtic Concert — Johnny B. Connolly	Edwards Hall
-Monday	18	7:00PM	Vestry Meeting	Guild Room
-Saturday	23	6:00PM	I-HELP Men	Edwards Hall
-Wednesday	27	7:00PM	Celtic Concert — Old Blind Dogs	Edwards Hall
+9
+October
+Sunday	1	10:00AM	CSC Sunday	Church
+Thursday	5	Noon	Guild Meeting	Guild Room
+Friday	6	10:00AM	Prayer Shawl Meeting	Guild Room
+Sunday	8	11:30AM	Order of St. Luke	Off-Site
+Sunday	8	3:00PM	Celtic Concert	Edwards Hall
+Saturday	14	1:00PM	Blessing of the Animals	Berwick Park
+Saturday	14	6:00PM	I-HELP Women	Edwards Hall
+Monday	16	7:00PM	Vestry Meeting	Guild Room
+Saturday	28	6:00PM	I-HELP Men	Edwards Hall
