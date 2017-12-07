@@ -1,51 +1,7 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html lang="en">
-<head>
-	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-	<title>2014 News | News &amp; Events | St. Mary&#8217;s by-the-Sea Episcopal Church</title>
-	<link rel="stylesheet" href="../css/main.css">
-	<link rel="stylesheet" href="../css/shadowbox.css">
-	<!--[if lt IE 8]>
-	<style type="text/css">
-		hr, hr.large_dots { visibility: hidden; }
-		.hr { background: url("../images/rules/horizontal_dots.png") center left repeat-x; }
-		.hr_large { background-image: url("../images/rules/horizontal_dots_large.png"); }
-		.hr_bottom { background-position: bottom left; }
-		.footer_nav, .footer_address { zoom: 1; display: inline; padding: 0 30px 0 20px; }
-	</style>
-	<![endif]-->
-	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-	<script type="text/javascript" src="../scripts/jquery.actions.js"></script>
-	<script type="text/javascript">
-		Shadowbox.init();
-	</script>
-</head>
-<body>
-<div id="shadow_wrap">
-<div id="container">
-	<div id="header">
-		<div id="header_links">
-			<p><a href="../newsletter.html">MONTHLY NEWSLETTER</a> | <a href="../sponsors_donors.html">SPONSORS/DONORS</a> | <a href="https://e-giving.org/egivinglogin.asp?id=1435" class="em">DONATE!</a></p>
-			<p class="social_links"><a href="https://www.facebook.com/StMarysPG" class="facebook" target="facebook">LIKE US ON FACEBOOK! <img src="../images/facebook.png" alt="Facebook"></a></p>
-		</div>
-		<a href="../index.html"><img src="../images/logo.png" alt="Church Logo" id="logo"></a>
-		<a href="../index.html"><img src="../images/logotype.png" alt="St. Mary&#8217;s by-the-Sea Episcopal Church" id="logotype"></a>
-		<img src="../images/tagline.png" alt="Serving the Episcopal Community of Pacific Grove and the Monterey Peninsula since 1887" id="tagline">
-	</div>
-	<div id="navigation">
-		<ul>
-			<li><a href="index.html"><img src="../images/nav/home.png" alt="Home" class="rollover"
-			></a></li><li><a href="../aboutus.html"><img src="../images/nav/about_us.png" alt="About Us" class="rollover"
-			></a></li><li><a href="../history.html"><img src="../images/nav/history.png" alt="History" class="rollover"
-			></a></li><li><a href="../ministries.html"><img src="../images/nav/ministries.png" alt="Ministries" class="rollover"
-			></a></li><li><a href="../newsandevents.html"><img src="../images/nav/news_events_over.png" alt="News &amp; Events" class="rollover"
-			></a></li><li><a href="../weddings.html"><img src="../images/nav/weddings.png" alt="Weddings" class="rollover"
-			></a></li><li><a href="../education.html"><img src="../images/nav/education.png" alt="Education" class="rollover"
-			></a></li><li><a href="../outreach.html"><img src="../images/nav/outreach.png" alt="Outreach" class="rollover"
-			></a></li><li><a href="../links.html"><img src="../images/nav/links.png" alt="Links" class="rollover"
-			></a></li><li><a href="../contact.html"><img src="../images/nav/contact.png" alt="Contact" class="rollover"></a></li>
-		</ul>
-	</div>
+<?php $section = 'News & Events'; ?>
+<?php $subsection = '2014 News'; ?>
+<?php include('../common/header.php'); ?>
+
 	<div id="picture_group_container">
 		<div id="picture_group_news" class="picture_group"></div>
 		<div class="changing_picture">
@@ -61,9 +17,6 @@
 		<div id="main_content">
 			<h1>News &amp; Events</h1>
 			<h2>2014</h2>
-
-
-
 
 			<div class="news_clipping">
 				<h3>St. Mary&#8217;s Homecoming &amp; BBQ 2014!</h3>
@@ -279,7 +232,7 @@
 			</div>
 
 			<div class="hr"><hr></div>
-			<p><a href="../newsandevents.html" title="Back to News & Events">Back to News &amp; Events</a></p>
+			<p><a href="../newsandevents.php" title="Back to News & Events">Back to News &amp; Events</a></p>
 
 			<div class="hr hr_bottom"><hr class="bottom"></div>
 		</div>
@@ -287,54 +240,5 @@
 		<?php include_once("../common/sidebar.php"); ?>
 
 	</div>
-</div>
-</div>
-<div id="footer">
-	<div id="footer_content">
-		<ul class="footer_nav">
-			<li><a href="../index.html">Home</a></li>
-			<li><a href="../aboutus.html">About Us</a></li>
-			<li><a href="../history.html">History</a></li>
-			<li><a href="../ministries.html">Ministries</a></li>
-		</ul>
-		<ul class="footer_nav separator">
-			<li><a href="../newsandevents.html">News &amp; Events</a></li>
-			<li><a href="../weddings.html">Weddings</a></li>
-			<li><a href="../education.html">Education</a></li>
-			<li><a href="../outreach.html">Outreach</a></li>
-		</ul>
-		<ul class="footer_nav separator">
-			<li><a href="../thriftshop.html">Thrift Shop</a></li>
-			<li><a href="../links.html">Links</a></li>
-			<li><a href="../contact.html">Contact</a></li>
-		</ul>
-		<ul class="footer_nav separator">
-			<li><a href="https://e-giving.org/egivinglogin.asp?id=1435" class="em">Donate!</a></li>
-			<li><a href="../newsletter.html">Newsletter</a></li>
-			<li><a href="../sponsors_donors.html">Sponsors/Donors</a></li>
-		</ul>
-		<ul class="footer_address separator">
-			<li>St. Mary's Episcopal Church</li>
-			<li>146 Twelfth Street</li>
-			<li>Pacific Grove, CA 93950-2749</li>
-			<li>(831) 373-4441</li>
-			<li><a href="mailto:info@stmarysbythesea.org">info@stmarysbythesea.org</a></li>
-		</ul>
-		<p id="copyright">&copy; 2000&ndash;2016 St. Mary&#8217;s by-the-Sea Episcopal Church. All Rights Reserved.</p>
-	</div>
-</div>
-<script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-21645095-4']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-</body>
-</html>
+<?php include('../common/footer.php'); ?>

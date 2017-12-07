@@ -19,10 +19,14 @@ AddOutputFilterByType DEFLATE application/x-javascript
 	Header set Cache-Control "max-age=172800, public, must-revalidate"
 </filesMatch>
 # 2 HOURS
-<filesMatch "\.(html|htm)$">
+<filesMatch "\.(html|htm|php)$">
 	Header set Cache-Control "max-age=7200, must-revalidate"
 </filesMatch>
 
 # PHP as HTML
 ### Live
 # AddHandler application/x-httpd-php  .htm .html
+
+RewriteEngine On
+RewriteCond %{REQUEST_URI} .html$
+RewriteRule ^(.*).html$ /$1.php [R=301,L]

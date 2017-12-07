@@ -23,7 +23,20 @@
     <!-- End Services -->
 
     <!-- Special Services -->
-    <!-- <div class="hr hr_large"><hr class="large_dots"></div> -->
+    <div class="hr hr_large"><hr class="large_dots"></div>
+    <div id="special-services">
+        <h2>Christmas Services</h2>
+        <h3>Wednesday,<br>December 20th</h3>
+        <p><strong>6PM</strong> Lessons and Carols</p>
+        <h3>Sunday,<br>December 24th<br>Christmas Eve</h3>
+        <p><strong>9AM</strong> Eucharist Rite II</p>
+        <p><strong>5PM</strong> Children's Creche Service</p>
+        <p><strong>9:30PM</strong> Carol Singing</p>
+        <p><strong>10PM</strong> Eucharist Rite II, with Music</p>
+        <h3>Monday,<br>December 25th<br>Christmas Day</h3>
+        <p><strong>10AM</strong> Eucharist Rite II</p>
+        <p><strong><em>Families with children welcome!</em></strong></p>
+    </div>
     <!-- End Special Services -->
 
     <div class="hr hr_large"><hr class="large_dots"></div>
@@ -51,7 +64,7 @@
         <div class="side-bar-event">
             <h3>Upcoming Concerts</h3>
             <ul class="info">
-                <li><strong>November 19th @ 3:00PM</strong><br> St. Mary&#8217;s Celtic Concert Series&mdash;The Syncopaths</li>
+                <li><strong>December 22nd @ 7:30PM</strong><br> Winterdance with Molly's Revenge</li>
             </ul>
         </div>
         <p>

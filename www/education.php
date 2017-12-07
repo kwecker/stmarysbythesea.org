@@ -1,47 +1,6 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html lang="en">
-<head>
-	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-	<title>Education | St. Mary&#8217;s by-the-Sea Episcopal Church</title>
-	<link rel="stylesheet" href="css/main.css">
-	<!--[if lt IE 8]>
-	<style type="text/css">
-		hr, hr.large_dots { visibility: hidden; }
-		.hr { background: url("images/rules/horizontal_dots.png") center left repeat-x; }
-		.hr_large { background-image: url("images/rules/horizontal_dots_large.png"); }
-		.hr_bottom { background-position: bottom left; }
-		.footer_nav, .footer_address { zoom: 1; display: inline; padding: 0 30px 0 20px; }
-	</style>
-	<![endif]-->
-	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-	<script type="text/javascript" src="scripts/jquery.actions.js"></script>
-</head>
-<body>
-<div id="shadow_wrap">
-<div id="container">
-	<div id="header">
-		<div id="header_links">
-			<p><a href="newsletter.html">MONTHLY NEWSLETTER</a> | <a href="sponsors_donors.html">SPONSORS/DONORS</a> | <a href="https://e-giving.org/egivinglogin.asp?id=1435" class="em">DONATE!</a></p>
-			<p class="social_links"><a href="https://www.facebook.com/StMarysPG" class="facebook" target="facebook">LIKE US ON FACEBOOK! <img src="images/facebook.png" alt="Facebook"></a></p>
-		</div>
-		<a href="index.html"><img src="images/logo.png" alt="Church Logo" id="logo"></a>
-		<a href="index.html"><img src="images/logotype.png" alt="St. Mary&#8217;s by-the-Sea Episcopal Church" id="logotype"></a>
-		<img src="images/tagline.png" alt="Serving the Episcopal Community of Pacific Grove and the Monterey Peninsula since 1887" id="tagline">
-	</div>
-	<div id="navigation">
-		<ul>
-			<li><a href="index.html"><img src="images/nav/home.png" alt="Home" class="rollover"
-			></a></li><li><a href="aboutus.html"><img src="images/nav/about_us.png" alt="About Us" class="rollover"
-			></a></li><li><a href="history.html"><img src="images/nav/history.png" alt="History" class="rollover"
-			></a></li><li><a href="ministries.html"><img src="images/nav/ministries.png" alt="Ministries" class="rollover"
-			></a></li><li><a href="newsandevents.html"><img src="images/nav/news_events.png" alt="News &amp; Events" class="rollover"
-			></a></li><li><a href="weddings.html"><img src="images/nav/weddings.png" alt="Weddings" class="rollover"
-			></a></li><li><a href="education.html"><img src="images/nav/education_over.png" alt="Education" class="rollover"
-			></a></li><li><a href="outreach.html"><img src="images/nav/outreach.png" alt="Outreach" class="rollover"
-			></a></li><li><a href="links.html"><img src="images/nav/links.png" alt="Links" class="rollover"
-			></a></li><li><a href="contact.html"><img src="images/nav/contact.png" alt="Contact" class="rollover"></a></li>
-		</ul>
-	</div>
+<?php $section = 'Education'; ?>
+<?php include('common/header.php'); ?>
+
 	<div id="picture_group_container">
 		<div id="picture_group_home" class="picture_group"></div>
 		<div class="changing_picture">
@@ -63,7 +22,7 @@
 				<li><a href="http://www.loavesfishescomputers.org" target="_blank">Loaves, Fishes &amp; Computers, Inc.</a></li>
 			</ul>
 			<p>
-				<em>Please see <a href="newsandevents.html">News &amp; Events</a> for upcoming events and classes.</em>
+				<em>Please see <a href="newsandevents.php">News &amp; Events</a> for upcoming events and classes.</em>
 			</p>
 			<div class="hr"><hr></div>
 			<h2>Godly Play Sunday School</h2>
@@ -93,7 +52,7 @@
 				<img src="images/briana_griswold.jpg" height="298" width="243">
 			</div>
 			<p>
-				Our toddler room is led by Briana Griswold. During the week she is a preschool teacher for <em>Mi Escuelita Preschool</em> in Aromas. She has been a Pre-K Sunday school teacher for over 3 years and is now very happy to be bonding with the children at St Mary&#8217;s. She has been working with children for well over half her life and truly enjoys it. She also has a deep passion for art which she brings to the classroom.
+				Our toddler room is led by Melissa Rubio. Melissa has an Associate's Degree in Early Childhood Education from Monterey Peninsula College and has several years’ experience working with infants and children. Some of the weekly activities in this room include making Play-Doh cookies, reading "Go Dogs Go" and everyone's favorite--snack time!
 			</p>
 			<!-- [[[ USE IF NO NEW PERSON FOUND IN DECEMBER ]]]
 			<p>
@@ -101,10 +60,10 @@
 			</p> -->
 			<div class="hr"><hr></div>
 			<h2>Youth &amp; Family Ministries</h2>
-			<h3>All God&#8217;s Children Services</h3>
+			<!-- <h3>All God&#8217;s Children Services</h3>
 			<p>
 				Four Sundays a year St. Mary&#8217;s celebrates a special service for children at 10 a.m. These festive services provide an opportunity for all ages to worship together. They include simple hymns and songs, self-generated prayers, and a homily designed especially for children.
-			</p>
+			</p> -->
 			<!-- <h3>Summer of Fun</h3>
 			<p>
 				Summer of Fun is when Godly Play takes a break and parish adults volunteer to lead a 10:00am Sunday session for our K-5th grade kids. Volunteer leaders focus on a variety of activities including arts, crafts, baking, being of service to the parish, etc.
@@ -122,7 +81,7 @@
 				For kids just beginning to learn tunes by ear, the slow and easy session runs from 4 p.m.&ndash;5 p.m., and more experienced jammers meet from 5 p.m.&ndash;6 p.m. We rock the red house and have a great time! Knowledge of basic fiddle in the first position is recommended. The sessions are free and open to the public.
 			</p>
 			<p>
-				For info contact Jackie Pierce, (831) 224-3819 or <a href="mailto:fiddlejamjp@gmail.com">fiddlejamjp@gmail.com</a> and don&#8217;t forget to <a href="http://www.facebook.com/StMarysPG">follow St. Mary&#8217;s on Facebook</a> to get invited to fabulous concerts and events. See you at the jam!
+				For info contact Jackie Pierce, (831) 224-3819 or <a href="mailto:fiddlejamjp@gmail.com">fiddlejamjp@gmail.com</a> and don&#8217;t forget to <a href="http://www.facebook.com/StMarysPG" target="facebook">follow St. Mary&#8217;s on Facebook</a> to get invited to fabulous concerts and events. See you at the jam!
 			</p>
 			<p>
 				John Weed is a classically trained violinist who has spent the last 20 years immersed in various fiddle styles. John lived in Ireland in 2000 and taught fiddle workshops at the Flowing Tide International Music School in Doonbeg, County Clare. He has honed his skills since, attending the Frankie Kennedy Winter School in Dunlewey, County Donegal where he studied with Ciaran O&#8217;Maonaigh and Dermot Mcloughlin. Having an affinity for American fiddle styles, John explores the connection between Irish, Scottish, and old time fiddle.
@@ -137,8 +96,8 @@
 				A Christmas party for all ages is held on the Saturday before Christmas in Edwards Hall. Parishioners bring food to share for the potluck supper. Games, cookie decorating, and a special visitor are planned for the children. Christmas carols are sung by all.
 			</p>
 			<ul class="bulletless">
-				<li><a href="childrensevents.html">Events &amp; Ministries for Children</a></li>
-				<li><a href="youthgroupevents.html">Events &amp; Ministries for the Youth Group</a></li>
+				<li><a href="childrensevents.php">Events &amp; Ministries for Children</a></li>
+				<li><a href="youthgroupevents.php">Events &amp; Ministries for the Youth Group</a></li>
 			</ul>
 			<p class="trailing_picture">
 				<img src="images/pic_4.jpg" alt="">
@@ -149,54 +108,5 @@
 		<?php include_once("common/sidebar.php"); ?>
 
 	</div>
-</div>
-</div>
-<div id="footer">
-	<div id="footer_content">
-		<ul class="footer_nav">
-			<li><a href="index.html">Home</a></li>
-			<li><a href="aboutus.html">About Us</a></li>
-			<li><a href="history.html">History</a></li>
-			<li><a href="ministries.html">Ministries</a></li>
-		</ul>
-		<ul class="footer_nav separator">
-			<li><a href="newsandevents.html">News &amp; Events</a></li>
-			<li><a href="weddings.html">Weddings</a></li>
-			<li><a href="education.html">Education</a></li>
-			<li><a href="outreach.html">Outreach</a></li>
-		</ul>
-		<ul class="footer_nav separator">
-			<li><a href="thriftshop.html">Thrift Shop</a></li>
-			<li><a href="links.html">Links</a></li>
-			<li><a href="contact.html">Contact</a></li>
-		</ul>
-		<ul class="footer_nav separator">
-			<li><a href="https://e-giving.org/egivinglogin.asp?id=1435" class="em">Donate!</a></li>
-			<li><a href="newsletter.html">Newsletter</a></li>
-			<li><a href="sponsors_donors.html">Sponsors/Donors</a></li>
-		</ul>
-		<ul class="footer_address separator">
-			<li>St. Mary's Episcopal Church</li>
-			<li>146 Twelfth Street</li>
-			<li>Pacific Grove, CA 93950-2749</li>
-			<li>(831) 373-4441</li>
-			<li><a href="mailto:info@stmarysbythesea.org">info@stmarysbythesea.org</a></li>
-		</ul>
-		<p id="copyright">&copy; 2000&ndash;2016 St. Mary&#8217;s by-the-Sea Episcopal Church. All Rights Reserved.</p>
-	</div>
-</div>
-<script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-21645095-4']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-</body>
-</html>
+<?php include('common/footer.php'); ?>
