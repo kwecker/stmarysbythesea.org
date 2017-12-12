@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 # Calendar Converter
-# ver. 0.3a
+# ver. 0.4a
 #
 # <tr class="upcoming-event">
 #     <td class="upcoming-event__date">
@@ -16,7 +16,9 @@
 # </tr>
 """
 
-calendar_file="Calendar.txt"
+calendar_file = "Calendar.txt"
+save_path = "/Users/kwecker/Desktop/Websites/stmarysbythesea.org/www/common/"
+output_file = "calendar.html"
 
 table_html = '''<table id="{}_events" class="upcoming-events" cellpadding="0" cellspacing="0" border="0">
 \t<thead>
@@ -104,7 +106,7 @@ def format_input(entry):
     return entry
 
 
-def write_tables():
+def write_tables(fname='output.txt'):
     months = gather_data()
     output = []
 
@@ -125,11 +127,11 @@ def write_tables():
 
         output.append(table_html.format(name.lower(), name, rows))
 
-    with open('output.txt', 'w') as f:
+    with open(fname, 'w') as f:
         f.write('\n\n'.join(output))
 
     print('Done.')
 
 
 if __name__ == '__main__':
-    write_tables()
+    write_tables(save_path + output_file)
